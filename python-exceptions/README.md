@@ -4,9 +4,9 @@ this project aims to teach students about exceptions, how to use them, how to us
 
 ## Technologies
 
-* Python Scripts are written with Python 3.4.3
-* C files are compiled using `gcc 4.8.4`
-* Tested on Ubuntu 14.04 LTS
+* Shell Scripts are written in GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin20)
+* Python Scripts are written with Python 3.8.9
+* Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
 
 ## Files
 
