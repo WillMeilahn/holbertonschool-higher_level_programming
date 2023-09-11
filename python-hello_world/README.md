@@ -4,7 +4,7 @@ This project aims to allow students to learn about variables, basics commands (p
 
 ## Technologies
 
-* Shell Scripts are written in Bash 4.3.11(1)
+* Shell Scripts are written in GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin20)
 * Python Scripts are written with Python 3.8.9
 * Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
 
