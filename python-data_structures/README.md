@@ -8,6 +8,7 @@ This project aims to allow students to learn about lists, tuples and strings in 
 * Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
 
 ## Files
+
 | Filename | Description |
 | -------- | ----------- |
 | `0-print_list_integer.py` | Function that prints all integers of a list |
