@@ -1,1 +1,27 @@
-python loops :)
+# Holberton School: If/else, loops, functions
+
+This project aims to allow students to learn about if/else statements, loops, range and functions in **Python**.
+
+## Technologies
+
+* Shell Scripts are written in GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin20)
+* Python Scripts are written with Python 3.8.9
+* Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
+
+## Files
+
+| Filename | Description |
+| -------- | ----------- |
+| `0-positive_or_negative.py` | Prints if a number is positive, zero or negative |
+| `1-last_digit.py` | Prints the last digit of a random number |
+| `2-print_alphabet.py` | Prints the ASCII alphabet in lowercase |
+| `3-print_alphabt.py` | Prints the ASCII alphabet in lowercase, except `q` and `e` |
+| `4-print_hexa.py` | Prints all numbers from `0` to `98` in decimal and hexadecimal |
+| `5-print_comb2.py` | Prints numbers from 0 to 99, separated by `, ` |
+| `6-print_comb3.py` | Prints all possible combinations of two digits, separated by `, ` |
+| `7-islower.py` | Checks for lowercase character |
+| `8-uppercase.py` | Prints a string in uppercase |
+| `9-print_last_digit.py` | Prints the last digit of a passed number |
+| `10-add.py` | Adds two integers and returns the result |
+| `11-pow.py` | Computes `a` to the power of `b` and return the value |
+| `12-fizzbuzz.py` | Prints FizzBuzz pattern |
