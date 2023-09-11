@@ -1,10 +1,9 @@
-# Import & modules
+# Holberton School: Import & modules
 
 This project teaches students how to import functions, create modules, and use command line arguments in **Python**.
 
 ## Technologies
 
-* Shell Scripts are written in GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin20)
 * Python Scripts are written with Python 3.8.9
 * Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
 
