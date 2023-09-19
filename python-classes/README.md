@@ -1,6 +1,6 @@
 # Holberton School: Classes and Objects
 
-This project aims to allow students to learn about object oriented programming (OOP), classes, objects, instances, methods and attributes in **Python**.
+This project aims to allow students to teach about object oriented programming (OOP), classes, objects, instances, methods and attributes in **Python**.
 
 ## Technologies
 
