@@ -3,6 +3,3 @@
 
 # code styler
 pycodestyle
-
-# pip installer (why is that there?)
-get-pip.py
