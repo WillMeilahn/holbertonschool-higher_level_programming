@@ -6,7 +6,7 @@ Module of **High-level programming** and **Python**, carried out during my **Sof
 
 * Shell Scripts are written in GNU bash, version 3.2.57(1)-release (x86_64-apple-darwin20)
 * Python Scripts are written with Python 3.8.9
-* Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
+* Tested on Ubuntu 20.04 LTS using python3
 
 ## Projects
 
@@ -23,3 +23,4 @@ All of the following folders are projects done during the studies:
 | [`python-classes`](https://github.com/WillMeilahn/holbertonschool-higher_level_programming/tree/main/python-classes) | It aims to teach about object oriented programming (OOP), classes, objects, instances, methods and attributes in **Python**. |
 | [`python-test_driven_development`](https://github.com/WillMeilahn/holbertonschool-higher_level_programming/tree/main/python-test_driven_development) | It aims to teach about docstrings to create and implement tests in **Python** |
 | [`python-more_classes`](https://github.com/WillMeilahn/holbertonschool-higher_level_programming/tree/main/python-more_classes) | It aims to build upon object oriented programming (OOP), Data Abstraction, Data Encapsulation, instances and classes attributes in **Python** |
+| [`python-everything_is_object`](https://github.com/WillMeilahn/holbertonschool-higher_level_programming/tree/main/python-everything_is_object) | It aims to teach about object oriented programming (OOP), mutability, identity and data types in **Python** |
