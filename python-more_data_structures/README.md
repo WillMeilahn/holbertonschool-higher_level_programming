@@ -5,7 +5,7 @@ This project aims to teach students about sets, dictionaries, and functions to h
 ## Technologies
 
 * Python Scripts are written with Python 3.8.9
-* Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
+* Tested on Ubuntu 20.04 LTS using python3
 
 ## Files
 

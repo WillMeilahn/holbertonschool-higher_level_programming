@@ -5,7 +5,7 @@ This project aims to allow students to learn about lists, tuples and strings in 
 ## Technologies
 
 * Python Scripts are written with Python 3.8.9
-* Tested on Ubuntu 20.04 LTS using python3 (version 3.8.*)
+* Tested on Ubuntu 20.04 LTS using python3
 
 ## Files
 
