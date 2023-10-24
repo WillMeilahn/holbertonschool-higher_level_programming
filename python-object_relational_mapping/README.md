@@ -7,7 +7,7 @@ This project aims to learn about how to connect to a MySQL database from a Pytho
 * `MySQL 8.0` (version 8.0.25)
 * `MySQLdb` (version 2.0.*)
 * `sqlalchemy` (version 1.4.*)
-* Python Scripts are written with Python 3.4.3
+* Python Scripts are written with Python 3.8.9
 * Python Scripts tested using `pycodestyle` (version 2.7.*)
 * Programmed in `Ubuntu 20.04 LTS`
 
